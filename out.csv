@@ -1,0 +1,6 @@
+external_id,opted_in,external_id_type,email,locale,ip,dob,address,city,state,zip,country,gender,first_name,last_name,referral,phone_numbers
+4903g34,False,file,joe.johnson@spamhole.com,en-us,19.5.10.1,,,Dearborn,Michigan,48121,USA,m,Joe,Johnson,F6D21E5897,+1 569-483-2388
+4903g34,False,file,sjervai@generator.email,en-us,19.5.10.1,,,Dearborn,Michigan,48121,USA,m,Sandrine,Jervais,74D1345C2F,+1 569-483-2388
+48982nf,False,file,mj@temp-mail.org,en-in,14.141.149.158,,,Noida,Uttar Pradesh,201301,IND,m,Mike,Jackson,F449799337,+1 555-555-1212
+jh41922,False,file,sam2382@mailinator .com,en-in,14.141.149.158,,,Noida,Uttar Pradesh,201301,IND,f,Samantha,Holland,E6AE5A9FBE,+1 716-873-9837
+an2944a,False,file,,,,,,,,,,f,,,0E182C4CC9,+1 432-867-5309
